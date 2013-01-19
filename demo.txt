@@ -1,0 +1,2 @@
+"Kingsley Chen", 22, Male, Computer Science
+"Hongwei Han", 22, Female, Medical
